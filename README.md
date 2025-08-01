@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Debangshu Saha 👋</h1>
-<h2 align="center">A passionate Full Stack Developer & Machine Learning Enthusiast from West Bengal, India 🇮🇳</h2>
+<h2 align="center">A passionate Full Stack Developer & Machine Learning Enthusiast from West Bengal, India</h2>
 
 <p align="center">
   <a href="https://github.com/Debu-003" target="_blank">
@@ -17,10 +17,9 @@
 
 ### 🚀 About Me
 
-- 🔍 Currently exploring **Generative AI, LLMs, and Machine Learning pipelines**
+- 🔍 Currently exploring **Machine Learning pipelines and Cloud computing**
 - 👨‍💻 B.Tech in Information Technology, KIIT University (2022–2026)
 - 🛠️ Love building innovative projects in **Full Stack Web Dev & ML**
-- 🧠 Learning deeply about **AI chatbots**, **SHAP explainability**, and **cloud architectures**
 - 📫 Reach me at: **[debangshu036@gmail.com](mailto:debangshu036@gmail.com)**
 
 ---
@@ -47,7 +46,7 @@
 
 ### 📜 Certifications
 
-- ✅ AWS Academy Cloud Foundations (2025)
+- ✅ AWS Academy Cloud Foundations Cloud Architecting (2025)
 - ✅ AICTE Python Fullstack Developer Virtual Internship (2024)
 - ✅ Smart India Hackathon Finalist (2023, 2024)
 - ✅ AI Chatbot with LLM, Langchain & Gradio (2024)
@@ -75,14 +74,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
 
 #### ⚙️ Backend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
@@ -94,16 +89,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40"/>
 </p>
 
 #### ☁️ DevOps & Cloud
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
 </p>
 
 #### 🤖 AI & ML
@@ -117,9 +108,7 @@
 #### 🧰 Tools
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/>
 </p>
 
 ---

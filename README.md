@@ -48,8 +48,8 @@
 
 - ✅ AWS Academy Cloud Foundations and Cloud Architecting (2025)
 - ✅ AICTE Python Fullstack Developer Virtual Internship (2024)
-- ✅ Smart India Hackathon Finalist (2023, 2024)
 - ✅ AI Chatbot with LLM, Langchain & Gradio (2024)
+- ✅ Smart India Hackathon Finalist (2023, 2024)
 
 ---
 

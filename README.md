@@ -115,7 +115,7 @@
 <p> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/> 
   <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" width="40" alt="MS Office"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi-1.svg" width="40" alt="Power BI"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="40" alt="Power BI"/>
 </p>
 
 ---

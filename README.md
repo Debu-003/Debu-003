@@ -1,79 +1,135 @@
-# 👋 Hi, I'm Debangshu Saha
+<h1 align="center">Hello, I'm Debangshu Saha 👋</h1>
+<h2 align="center">A passionate Full Stack Developer & Machine Learning Enthusiast from West Bengal, India 🇮🇳</h2>
 
-📫 **Email**: [debangshu036@gmail.com](mailto:debangshu036@gmail.com)
-📞 **Phone**: +91-8293410195  
-🔗 [LinkedIn](https://www.linkedin.com/in/debux03) 
-
----
-
-## 💡 Profile Summary
-
-Motivated, quick-learning engineering student passionate about innovative solutions. Thrives in collaborative, cross-disciplinary teams, eager to enhance skills and tackle real-world challenges. Seeking a dynamic internship to apply knowledge, grow creatively, and contribute meaningfully in a fast-paced, learning-driven environment.
-
----
-
-## 🎓 Education
-
-- **B.Tech in Information Technology**, KIIT DU, Bhubaneswar, Odisha (2022–2026)  
-  *CGPA: 8.0*
-
-- **12th (WBCHSE)**, Burdwan Municipal High School, West Bengal (2022)  
-  *Aggregate: 79%*
-
-- **10th (WBBSE)**, Burdwan Municipal High School, West Bengal (2020)  
-  *Aggregate: 91%*
+<p align="center">
+  <a href="https://github.com/Debu-003" target="_blank">
+    <img src="https://img.shields.io/github/followers/Debu-003?label=GitHub&style=social" alt="GitHub" />
+  </a>
+  <a href="mailto:debangshu036@gmail.com">
+    <img src="https://img.shields.io/badge/email-debangshu036@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/debux03/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-debux03-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Projects
+### 🚀 About Me
 
-### 🔬 ECG-Based Heart Disease Detection using LightForest Model
-- Developed an image-based ECG classification system for detecting Normal, Heart Block (HB), and Myocardial Infarction (MI).
-- Used **HOG** for feature extraction, and trained **Random Forest** and **LightGBM** models.
-- Combined them into a **LightForest weighted ensemble** for improved performance.
-- Applied multithreading for faster and more accurate processing.
-
-### 🎵 Music Genre Classification using ML and SHAP
-- Built a classifier for music genres (Rock, Jazz, Classical, Pop) using **MFCC, Chroma, Mel spectrogram** features.
-- Implemented **Random Forest** and integrated **SHAP** for model explainability.
-- Deployed via **Flask** web app with real-time classification.
-
-### 🛒 Price Comparison Tool for Government E-Marketplace (GEM)
-- Developed a tool to compare product prices between **GeM** and commercial sites using **web scraping** and **data analytics**.
-- Aimed to enhance procurement efficiency and identify cost-saving opportunities.
-
-### 🏥 Hospital Centralized Management System
-- Created a real-time centralized platform for managing OPD queues, bed availability, and patient records.
-- Supported online medicine purchases and hospital interconnectivity across a region.
+- 🔍 Currently exploring **Generative AI, LLMs, and Machine Learning pipelines**
+- 👨‍💻 B.Tech in Information Technology, KIIT University (2022–2026)
+- 🛠️ Love building innovative projects in **Full Stack Web Dev & ML**
+- 🧠 Learning deeply about **AI chatbots**, **SHAP explainability**, and **cloud architectures**
+- 📫 Reach me at: **[debangshu036@gmail.com](mailto:debangshu036@gmail.com)**
 
 ---
 
-## 📜 Certifications & Seminars
+### 🧠 Projects
 
-- ✅ **Smart India Hackathon (SIH)** Finalist – 2023, 2024  
-- 🧠 **Python Fullstack Developer Virtual Internship**, AICTE – 2024  
-- 🤖 **AI Chatbot Development using LLM, Langchain & Gradio** – 2024  
-- ☁️ **AWS Academy Cloud Foundations Course** – 2025  
+- **🫀 ECG-based Heart Disease Detection (LightForest Model)**  
+  Image-based classification of ECGs into HB, MI, Normal  
+  → Used **HOG**, ensemble model of RandomForest & LightGBM, AUC-ROC optimized
 
----
+- **🎶 Music Genre Classifier with SHAP**  
+  Classified music (Jazz, Rock, Classical, etc.) using **MFCC, Chroma, MelSpec**  
+  → Built with Flask, integrated SHAP for interpretability
 
-## 💻 Technical Skills
+- **💸 Price Comparison Tool for GeM**  
+  Scraped & compared prices of government vs. commercial marketplaces  
+  → Web scraping, analytics, procurement optimization
 
-- **Languages**: C, Java, Python  
-- **Web**: HTML, CSS, JavaScript  
-- **Libraries**: Pandas, Numpy, Matplotlib  
-- **Databases**: SQL, MySQL  
-- **Tools**: Git, GitHub, VSCode  
-- **Others**: MS Office Suite, Power BI  
-
----
-
-## 🌐 Additional Skills & Activities
-
-- 🎬 Active member of **KIIT Film Society (KFS)**  
-- 🗣️ Trilingual: Fluent in **English, Hindi, Bengali**  
-- 🙌 Volunteer for various school and college events
+- **🏥 Hospital Centralized Management System**  
+  Connected hospitals across regions for OPD queues, bed tracking, online medicine  
+  → Real-time healthcare web platform
 
 ---
 
-_Thank you for visiting! Feel free to connect or collaborate._
+### 📜 Certifications
+
+- ✅ AWS Academy Cloud Foundations (2025)
+- ✅ AICTE Python Fullstack Developer Virtual Internship (2024)
+- ✅ Smart India Hackathon Finalist (2023, 2024)
+- ✅ AI Chatbot with LLM, Langchain & Gradio (2024)
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/debux03/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Debu-003" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+</p>
+
+#### 🗃️ Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40"/>
+</p>
+
+#### ☁️ DevOps & Cloud
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
+</p>
+
+#### 🤖 AI & ML
+<p>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+#### 🧰 Tools
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Debu-003&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://streak-stats.demolab.com?user=Debu-003&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debu-003&theme=dark&layout=compact&hide_border=false" />
+</div>
+
+---

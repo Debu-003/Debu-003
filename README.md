@@ -111,6 +111,13 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
 </p>
 
+### 📦 Productivity & IDE Tools
+<p> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/> 
+  <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" width="40" alt="MS Office"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi-1.svg" width="40" alt="Power BI"/> 
+</p>
+
 ---
 
 ### 📊 GitHub Stats

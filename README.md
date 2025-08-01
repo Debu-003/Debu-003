@@ -17,8 +17,8 @@
 
 ### 🚀 About Me
 
-- 🔍 Currently exploring **Machine Learning pipelines and Cloud computing**
 - 👨‍💻 B.Tech in Information Technology, KIIT University (2022–2026)
+- 🔍 Currently exploring **Machine Learning pipelines and Cloud computing**
 - 🛠️ Love building innovative projects in **Full Stack Web Dev & ML**
 - 📫 Reach me at: **[debangshu036@gmail.com](mailto:debangshu036@gmail.com)**
 
